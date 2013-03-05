@@ -1,0 +1,10 @@
+a:\users\tortus\documents\visual studio 2010\Projects\Shooty_Thing\Shooty_Thing\obj\x86\Debug\ResolveAssemblyReference.cache
+a:\users\tortus\documents\visual studio 2010\Projects\Shooty_Thing\Shooty_Thing\bin\WindowsGL\Debug\SDL.dll
+a:\users\tortus\documents\visual studio 2010\Projects\Shooty_Thing\Shooty_Thing\bin\WindowsGL\Debug\Shooty_Thing.exe
+a:\users\tortus\documents\visual studio 2010\Projects\Shooty_Thing\Shooty_Thing\bin\WindowsGL\Debug\Shooty_Thing.pdb
+a:\users\tortus\documents\visual studio 2010\Projects\Shooty_Thing\Shooty_Thing\bin\WindowsGL\Debug\Lidgren.Network.dll
+a:\users\tortus\documents\visual studio 2010\Projects\Shooty_Thing\Shooty_Thing\bin\WindowsGL\Debug\MonoGame.Framework.dll
+a:\users\tortus\documents\visual studio 2010\Projects\Shooty_Thing\Shooty_Thing\bin\WindowsGL\Debug\OpenTK.dll
+a:\users\tortus\documents\visual studio 2010\Projects\Shooty_Thing\Shooty_Thing\bin\WindowsGL\Debug\Tao.Sdl.dll
+a:\users\tortus\documents\visual studio 2010\Projects\Shooty_Thing\Shooty_Thing\obj\x86\Debug\Shooty_Thing.exe
+a:\users\tortus\documents\visual studio 2010\Projects\Shooty_Thing\Shooty_Thing\obj\x86\Debug\Shooty_Thing.pdb
